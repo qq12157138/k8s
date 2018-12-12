@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/pasue:v1.12.3
+FROM k8s.gcr.io/pasue:3.1
 MAINTAINER shijiangtao
